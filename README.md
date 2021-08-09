@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+Salticidae here, I like Data Science!
